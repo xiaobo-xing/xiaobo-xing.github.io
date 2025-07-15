@@ -2,9 +2,9 @@
   "basics": {
     "name": "Xiaobo Xing",
     "email": "xiaobo.xing@uq.edu.au",
-    "phone": "+61 493 712 603",
+    "phone": "",
     "website": "https://xiaobo-xing.github.io/",
-    "summary": "Master’s graduate in Computer Science (Management) from The University of Queensland, preparing to begin a PhD in AI and multimodal reasoning.",
+    "summary": "Master’s graduate in Computer Science (Management) from The University of Queensland, preparing to begin a PhD in multimodal LLM and tabular data understanding.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -33,21 +33,22 @@
   "work": [
     {
       "company": "The University of Queensland",
-      "position": "Casual Academic Tutor",
-      "website": "https://eecs.uq.edu.au",
+      "position": "Teaching Assistant (Tutor)",
+      "website": "",
       "startDate": "2025-02",
       "endDate": "2025-06",
       "summary": "Delivered tutorials and assisted with assessment for the INFS7450 Social Media Analytics course.",
       "highlights": [
         "Led weekly 2-hour tutorials for over 50 students.",
         "Provided coding demonstrations and in-class Q&A.",
-        "Graded assignments and provided feedback."
+        "Answered questions on forums",
+        "Graded assignments and exams."
       ]
     },
     {
       "company": "CRRC Changchun Railway Vehicles Co., Ltd.",
       "position": "Software Engineer",
-      "website": "http://www.crrcgc.cc/cc",
+      "website": "",
       "startDate": "2022-07",
       "endDate": "2023-07",
       "summary": "Full-stack development and backend system integration in a manufacturing enterprise setting.",
@@ -122,10 +123,8 @@
     }
   ],
   "interests": [
-    { "name": "LLMs & Multimodal Reasoning" },
-    { "name": "Human-AI Interaction" },
-    { "name": "Neuro-symbolic AI" },
-    { "name": "Applied NLP in Education" }
+    { "name": "Swimming" },
+    { "name": "Gaming" }
   ],
   "publications": [],
   "presentations": [],
@@ -134,8 +133,8 @@
       "course": "Social Media Analytics (INFS7450)",
       "institution": "The University of Queensland",
       "date": "2025-02",
-      "role": "Tutorial Instructor",
-      "description": "Led tutorials, supported students with lab work, and contributed to grading and course delivery."
+      "role": "Teaching Assistant (Tutor)",
+      "description": "Led 2-hours tutorials, answered questions on forums, and contributed to grading and course delivery."
     }
   ]
   
