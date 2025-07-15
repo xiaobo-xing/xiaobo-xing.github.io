@@ -1,152 +1,142 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Xiaobo Xing",
+    "email": "xiaobo.xing@uq.edu.au",
+    "phone": "+61 493 712 603",
+    "website": "https://xiaobo-xing.github.io/",
+    "summary": "Master’s graduate in Computer Science (Management) from The University of Queensland, preparing to begin a PhD in AI and multimodal reasoning.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Brisbane",
+      "countryCode": "AU",
+      "region": "Queensland"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
+        "username": "Xiaobo Xing",
         "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "0000-0001-7014-0760",
+        "url": "https://orcid.org/0000-0001-7014-0760"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "xiaobo-xing",
+        "url": "https://github.com/xiaobo-xing"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "The University of Queensland",
+      "position": "Casual Academic Tutor",
+      "website": "https://eecs.uq.edu.au",
+      "startDate": "2025-02",
+      "endDate": "2025-06",
+      "summary": "Delivered tutorials and assisted with assessment for the INFS7450 Social Media Analytics course.",
+      "highlights": [
+        "Led weekly 2-hour tutorials for over 50 students.",
+        "Provided coding demonstrations and in-class Q&A.",
+        "Graded assignments and provided feedback."
+      ]
+    },
+    {
+      "company": "CRRC Changchun Railway Vehicles Co., Ltd.",
+      "position": "Software Engineer",
+      "website": "http://www.crrcgc.cc/cc",
+      "startDate": "2022-07",
+      "endDate": "2023-07",
+      "summary": "Full-stack development and backend system integration in a manufacturing enterprise setting.",
+      "highlights": [
+        "Developed Java Spring Boot microservices and REST APIs.",
+        "Digitised internal workflows using Kingdee systems.",
+        "Resolved legacy data conflicts and improved business logic accuracy."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "The University of Queensland",
+      "area": "Master of Computer Science (Management)",
+      "studyType": "Postgraduate Coursework",
+      "startDate": "2023-07",
+      "endDate": "2025-07",
+      "gpa": "6.625/7",
+      "courses": [
+        "Social Media Analytics",
+        "Computer Science Research Project (6 units)",
+        "Information Retrieval",
+        "Research Methods"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Jilin University",
+      "area": "Bachelor of Information Engineering",
+      "studyType": "Undergraduate",
+      "startDate": "2018-08",
+      "endDate": "2022-06",
+      "gpa": "79.33/100",
+      "courses": [
+        "Digital Signal Processing",
+        "Data Structures and Algorithms",
+        "Computer Networks",
+        "Embedded Systems",
+        "Electronic Circuit Design"
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
+  "skills": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Programming Languages",
+      "level": "Advanced",
+      "keywords": ["Java", "Python", "SQL", "HTML", "CSS", "JavaScript", "PHP"]
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Machine Learning",
+      "level": "Proficient",
+      "keywords": ["Classification", "Clustering", "Anomaly Detection", "Text Mining", "Neural Networks", "PyTorch", "TensorFlow"]
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "LLMs and AI Agents",
+      "level": "Proficient",
+      "keywords": ["Prompt Engineering", "Fine-tuning", "Retrieval-Augmented Generation (RAG)", "Agent Design"]
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Tools & Systems",
+      "level": "Intermediate",
+      "keywords": ["Git", "Docker", "Kubernetes", "Apache Spark", "MongoDB", "Navicat", "Postman"]
     }
   ],
-  "presentations": [
+  "languages": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "language": "Mandarin Chinese",
+      "fluency": "Native"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "language": "English",
+      "fluency": "Professional Working Proficiency"
     }
   ],
+  "interests": [
+    { "name": "LLMs & Multimodal Reasoning" },
+    { "name": "Human-AI Interaction" },
+    { "name": "Neuro-symbolic AI" },
+    { "name": "Applied NLP in Education" }
+  ],
+  "publications": [],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "course": "Social Media Analytics (INFS7450)",
+      "institution": "The University of Queensland",
+      "date": "2025-02",
+      "role": "Tutorial Instructor",
+      "description": "Led tutorials, supported students with lab work, and contributed to grading and course delivery."
     }
   ]
+  
 }
