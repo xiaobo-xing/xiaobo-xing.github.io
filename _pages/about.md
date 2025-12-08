@@ -62,8 +62,7 @@ redirect_from:
       <li style="margin-top: 10px;">
         <strong>Master of Computer Science (Management)</strong> <br>
         The University of Queensland, Australia <br>
-        <span style="color: #666; font-size: 0.9em;">Jul. 2023 – Jul. 2025 | Advisor: Prof. Hongzhi Yin</span> <br>
-        <span style="color: #666; font-size: 0.9em;">GPA: 6.63/7 (Thesis: 7/7)</span>
+        <span style="color: #666; font-size: 0.9em;">Jul. 2023 – Jul. 2025 | Advisor: Prof. Hongzhi Yin | GPA: 6.63/7 (Thesis: 7/7) </span> 
       </li>
       <li style="margin-top: 10px;">
         <strong>Bachelor of Information Engineering</strong> <br>
