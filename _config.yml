@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Xiaobo Xing"
 title_separator          : "-"
 name                     : &name "Xiaobo Xing"
-description              : &description "personal description"
+description              : &description "PhD student researching LLMs for tabular data under Prof. Hongzhi Yin at The University of Queensland."
 url                      : https://xiaobo-xing.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Xiaobo Xing"
   pronouns         : "he/him"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : "PhD student (from Jan 2026) at The University of Queensland under Prof. Hongzhi Yin, focusing on large language models for tabular data."
   location         : "Brisbane"
   employer         : "The University of Queensland"
   uri              : https://xiaobo-xing.github.io/
@@ -34,9 +34,9 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=EZad4D0AAAAJ"
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0001-5490-2742"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL

@@ -4,7 +4,7 @@
     "email": "xiaobo.xing@uq.edu.au",
     "phone": "",
     "website": "https://xiaobo-xing.github.io/",
-    "summary": "Master’s graduate in Computer Science (Management) from The University of Queensland, preparing to begin a PhD in multimodal LLM and tabular data understanding.",
+    "summary": "PhD student (from Jan 2026) at The University of Queensland under Prof. Hongzhi Yin, researching large language models for tabular data.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -16,12 +16,12 @@
       {
         "network": "Google Scholar",
         "username": "Xiaobo Xing",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=EZad4D0AAAAJ"
       },
       {
         "network": "ORCID",
-        "username": "0000-0001-7014-0760",
-        "url": "https://orcid.org/0000-0001-7014-0760"
+        "username": "0009-0001-5490-2742",
+        "url": "https://orcid.org/0009-0001-5490-2742"
       },
       {
         "network": "GitHub",
@@ -33,15 +33,27 @@
   "work": [
     {
       "company": "The University of Queensland",
-      "position": "Teaching Assistant (Tutor)",
+      "position": "Casual Academic (Tutor)",
+      "website": "",
+      "startDate": "2025-07",
+      "endDate": "2025-12",
+      "summary": "Tutor for Data Mining (INFS4203/INFS7203) including assessment and oral exam evaluation.",
+      "highlights": [
+        "Assessed and graded final oral exams.",
+        "Provided guidance to students on course content and coding exercises."
+      ]
+    },
+    {
+      "company": "The University of Queensland",
+      "position": "Casual Academic (Tutor)",
       "website": "",
       "startDate": "2025-02",
       "endDate": "2025-06",
-      "summary": "Delivered tutorials and assisted with assessment for the INFS7450 Social Media Analytics course.",
+      "summary": "Tutor for Social Media Analytics (INFS7450).",
       "highlights": [
         "Led weekly 2-hour tutorials for over 50 students.",
         "Provided coding demonstrations and in-class Q&A.",
-        "Answered questions on forums",
+        "Answered questions on forums.",
         "Graded assignments and exams."
       ]
     },
@@ -126,9 +138,24 @@
     { "name": "Swimming" },
     { "name": "Gaming" }
   ],
-  "publications": [],
+  "publications": [
+    {
+      "name": "TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding",
+      "publisher": "arXiv preprint",
+      "releaseDate": "2025-09",
+      "summary": "First-author preprint on multi-modal routing for table understanding; available on arXiv.",
+      "website": "https://arxiv.org/abs/2509.14671"
+    }
+  ],
   "presentations": [],
   "teaching": [
+    {
+      "course": "Data Mining (INFS4203/INFS7203)",
+      "institution": "The University of Queensland",
+      "date": "2025-07",
+      "role": "Tutor",
+      "description": "Assessed final oral exams and supported students with course content and coding exercises."
+    },
     {
       "course": "Social Media Analytics (INFS7450)",
       "institution": "The University of Queensland",
