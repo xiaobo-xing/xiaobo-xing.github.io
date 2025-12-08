@@ -24,11 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Xiaobo Xing"
-  pronouns         : "he/him"  
-  bio              : "PhD student (from Jan 2026) at The University of Queensland under Prof. Hongzhi Yin, focusing on large language models for tabular data."
+  pronouns         : 
+  bio              : 
   location         : "Brisbane"
   employer         : "The University of Queensland"
-  uri              : https://xiaobo-xing.github.io/
+  employer_url     : "https://en.wikipedia.org/wiki/University_of_Queensland"
+  uri              : 
   email            : "xiaobo.xing@uq.edu.au" 
 
   # Academic websites
