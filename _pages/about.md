@@ -61,17 +61,17 @@ redirect_from:
       <div class="edu-details">
         <strong>Ph.D. in Computer Science</strong>
         <div class="school">The University of Queensland, Australia</div>
-        <div class="advisor">Advisor: Prof. Hongzhi Yin</div>
+        <div class="supervisor">Supervisor: Prof. Hongzhi Yin</div>
       </div>
     </div>
 
     <div class="edu-item">
       <div class="edu-date">2023 – 2025</div>
       <div class="edu-details">
-        <strong>Master of Computer Science</strong>
+        <strong>M.S. in Computer Science</strong>
         <div class="school">The University of Queensland, Australia</div>
-        <div class="advisor">Advisor: Prof. Hongzhi Yin</div>
-        <div class="gpa">GPA: 6.63 / 7.0 (Thesis Grade: 7 / 7)</div>
+        <div class="supervisor">Supervisor: Prof. Hongzhi Yin</div>
+        <div class="gpa">GPA: 6.63 / 7 (Thesis Grade: 7 / 7)</div>
       </div>
     </div>
 
@@ -87,9 +87,9 @@ redirect_from:
   <section class="single-card">
     <h2>Research Interests</h2>
     <ul>
-      <li>Tabular Data Learning</li>
-      <li>Table Understanding</li>
-      <li>Large Language Models</li>
+      <li>Table Understanding & Reasoning</li>
+      <li>Multi-modal Learning</li>
+      <li>Large Language Models for Structured Data</li>
     </ul>
   </section>
 
