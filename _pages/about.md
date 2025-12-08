@@ -13,20 +13,18 @@ redirect_from:
   margin: 0 auto;
 }
 .single-card {
-  background: #fff;
-  border: 1px solid #e2e8f0;
-  border-radius: 10px;
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.04);
-  padding: 1.4rem 1.6rem;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+  padding: 0 0 1rem 0;
 }
 .single-card + .single-card {
-  margin-top: 1.2rem;
+  margin-top: 0.6rem;
 }
 .single-card h2 {
   margin-top: 0;
   margin-bottom: 0.6rem;
   font-weight: 700;
-  color: #0c406f;
 }
 .single-card ul {
   margin: 0.2rem 0 0;
