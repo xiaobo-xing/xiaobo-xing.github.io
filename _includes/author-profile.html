@@ -31,9 +31,9 @@
         <li class="author__desktop">
           <i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>
           {% if author.employer_url %}
-            <a href="{{ author.employer_url }}">{{ author.employer }}</a>
+            <a href="{{ author.employer_url }}" title="The University of Queensland">{{ author.employer }}</a>
           {% else %}
-            {{ author.employer }}
+            <span title="The University of Queensland">{{ author.employer }}</span>
           {% endif %}
         </li>
       {% endif %}
