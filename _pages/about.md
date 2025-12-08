@@ -49,7 +49,7 @@ redirect_from:
 <div class="single-page">
   <section class="single-card">
     <h2>About Me</h2>
-    <p>I am Xiaobo Xing, a PhD student (from Jan 2026) in Computer Science at The University of Queensland, supervised by <a href="https://sites.google.com/view/hongzhi-yin/students">Prof. Hongzhi Yin</a>. My work centres on large language models for tabular data, with experience spanning software engineering, academic tutoring, and research on LLM-driven table understanding.</p>
+    <p>I am Xiaobo Xing, a PhD student (from Jan 2026) in Computer Science at The University of Queensland, supervised by <a href="https://sites.google.com/view/hongzhi-yin/students">Prof. Hongzhi Yin</a>. My work focus on large language models for tabular data, with experience spanning software engineering, academic tutoring, and research on LLM-driven table understanding.</p>
   </section>
 
   <section class="single-card">
