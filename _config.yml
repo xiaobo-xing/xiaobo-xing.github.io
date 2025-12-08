@@ -27,7 +27,7 @@ author:
   pronouns         : 
   bio              : 
   location         : "Brisbane"
-  employer         : "UQ"
+  employer         : "The University of Queensland"
   employer_url     : "https://en.wikipedia.org/wiki/University_of_Queensland"
   uri              : 
   email            : "xiaobo.xing@uq.edu.au" 
@@ -55,7 +55,7 @@ author:
   artstation       : # Username
   bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
-  flickr           : # Username
+  flickr         : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
@@ -355,3 +355,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+

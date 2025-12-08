@@ -51,6 +51,7 @@ redirect_from:
   </section>
 
   <section class="single-card">
+  
     <h2>Education</h2> <ul>
       <li>
         <strong>Ph.D. in Computer Science</strong> <br>

@@ -31,9 +31,9 @@
         <li class="author__desktop">
           <i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>
           {% if author.employer_url %}
-            <a href="{{ author.employer_url }}" title="The University of Queensland">{{ author.employer }}</a>
+            <a href="{{ author.employer_url }}">{{ author.employer }}</a>
           {% else %}
-            <span title="The University of Queensland">{{ author.employer }}</span>
+            {{ author.employer }}
           {% endif %}
         </li>
       {% endif %}
@@ -62,7 +62,7 @@
       {% endif %}
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
-      {% endif %}
+      {% endif %}                        
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>
       {% endif %}                        
@@ -102,7 +102,7 @@
       {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-f icon-pad-right" aria-hidden="true"></i>Facebook</a></li>
-      {% endif %}
+      {% endif %}      
       {% if author.flickr %}
         <li><a href="https://www.flickr.com/{{ author.flickr }}"><i class="fab fa-fw fa-flickr icon-pad-right" aria-hidden="true"></i>Flickr</a></li>
       {% endif %}      
