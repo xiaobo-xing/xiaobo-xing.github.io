@@ -49,18 +49,40 @@ redirect_from:
 <div class="single-page">
   <section class="single-card">
     <h2>About Me</h2>
-    <p>PhD student (from Jan 2026) in Computer Science at The University of Queensland, supervised by <a href="https://sites.google.com/view/hongzhi-yin/students">Prof. Hongzhi Yin</a>, focusing on large language models for tabular data.</p>
-    <p>Previously completed a Master of Computer Science (Management) at UQ, worked one year as a software engineer, and earned a Bachelor of Information Engineering at Jilin University.</p>
+    <p>I am a Ph.D. student student (from Jan 2026) in Computer Science at The University of Queensland (UQ), supervised by <a href="https://sites.google.com/view/hongzhi-yin/students">Prof. Hongzhi Yin</a>, focusing on large language models for tabular data.</p>
+    <p>Prior to my Ph.D. studies, I earned my Master of Computer Science (Management) from UQ and my Bachelor of Information Engineering from Jilin University. I also bring a year of industry experience as a software engineer, which has strengthened my engineering capabilities for research.</p>
   </section>
 
   <section class="single-card">
-    <h2>Education Experience</h2>
-    <ul>
-      <li><strong>PhD in Computer Science</strong>, The University of Queensland, Australia. 2026.01 ~</li>
-      <li><strong>Master of Computer Science (Management)</strong>, The University of Queensland, Australia. GPA 6.625/7; thesis GPA 7/7. 2023.07 ~ 2025.07</li>
-      <li><strong>Bachelor of Information Engineering</strong>, Jilin University, China. 2018.09 ~ 2022.06</li>
-    </ul>
-  </section>
+    <h2>Education</h2>
+    
+    <div class="edu-item">
+      <div class="edu-date">Jan. 2026 – Present</div>
+      <div class="edu-details">
+        <strong>Ph.D. in Computer Science</strong>
+        <div class="school">The University of Queensland, Australia</div>
+        <div class="advisor">Advisor: Prof. Hongzhi Yin</div>
+      </div>
+    </div>
+
+    <div class="edu-item">
+      <div class="edu-date">2023 – 2025</div>
+      <div class="edu-details">
+        <strong>Master of Computer Science</strong>
+        <div class="school">The University of Queensland, Australia</div>
+        <div class="advisor">Advisor: Prof. Hongzhi Yin</div>
+        <div class="gpa">GPA: 6.63 / 7.0 (Thesis Grade: 7 / 7)</div>
+      </div>
+    </div>
+
+    <div class="edu-item">
+      <div class="edu-date">2018 – 2022</div>
+      <div class="edu-details">
+        <strong>B.E. in Information Engineering</strong>
+        <div class="school">Jilin University, China</div>
+      </div>
+    </div>
+</section>
 
   <section class="single-card">
     <h2>Research Interests</h2>
