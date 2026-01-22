@@ -47,14 +47,14 @@ redirect_from:
 <div class="single-page">
   <section class="single-card">
     <h2>About Me</h2>
-    <p>I am a Ph.D. student student (from Jan 2026) in Computer Science at The University of Queensland (UQ), supervised by <a href="https://sites.google.com/view/hongzhi-yin/students">Prof. Hongzhi Yin</a>, focusing on large language models for tabular data. Prior to my Ph.D. studies, I earned my Master of Computer Science (Management) from UQ and my Bachelor of Information Engineering from Jilin University. I also bring a year of industry experience as a software engineer, which has strengthened my engineering capabilities for research.</p>
+    <p>I am a Ph.D. student student in Data Science at The University of Queensland (UQ), supervised by <a href="https://sites.google.com/view/hongzhi-yin/home">Prof. Hongzhi Yin</a>, focusing on large language models for tabular data. Prior to my Ph.D. studies, I earned my Master of Computer Science (Management) from UQ and my Bachelor of Information Engineering from Jilin University. I also bring a year of industry experience as a software engineer, which has strengthened my engineering capabilities for research.</p>
   </section>
 
   <section class="single-card">
   
     <h2>Education</h2> <ul>
       <li>
-        <strong>Ph.D. in Computer Science</strong> <br>
+        <strong>Ph.D. in Data Science</strong> <br>
         The University of Queensland, Australia <br>
         <span style="color: #666; font-size: 0.9em;">Jan. 2026 – Present | Advisor: Prof. Hongzhi Yin</span>
       </li>
@@ -76,19 +76,20 @@ redirect_from:
     <ul>
       <li>Table Understanding & Reasoning</li>
       <li>Multi-modal Learning</li>
+      <li>Relational Deep Learning</li>
       <li>Large Language Models for Structured Data</li>
     </ul>
   </section>
 
   <section class="single-card">
-    <h2>Publications</h2>
+    <h2>Research Works</h2>
     <ul>
       <li><strong>Xiaobo Xing</strong>, Wei Yuan, Tong Chen, Quoc Viet Hung Nguyen, Xiangliang Zhang, Hongzhi Yin. TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding. arXiv 2025. <a href="https://arxiv.org/abs/2509.14671">arXiv:2509.14671</a>.</li>
     </ul>
   </section>
 
   <section class="single-card">
-    <h2>Teaching</h2>
+    <h2>Teaching Experience</h2>
     <ul>
       <li><strong>Data Mining (INFS4203/INFS7203)</strong> — Tutor; oral exam assessment and student support (UQ, Jul–Dec 2025).</li>
       <li><strong>Social Media Analytics (INFS7450)</strong> — Tutor; weekly tutorials and assessment (UQ, Feb–Jun 2025).</li>
@@ -98,7 +99,7 @@ redirect_from:
   <section class="single-card">
     <h2>Awards</h2>
     <ul>
-      <li>Dean’s Commendation for Academic Excellence: 2025 Semester 1, 2024 Semester 2, 2024 Semester 1 (Faculty of EAIT, UQ).</li>
+      <li>Dean’s Commendation for Academic Excellence: 2025 Semester 1; 2024 Semester 2; 2024 Semester 1 (Faculty of EAIT, UQ).</li>
       <li>Best New Employee Award 2022, CRRC Changchun Railway Vehicles Co., Ltd.</li>
       <li>The Star of Events 2022, CRRC Changchun Railway Vehicles Co., Ltd.</li>
     </ul>
