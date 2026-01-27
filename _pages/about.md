@@ -9,8 +9,10 @@ redirect_from:
 
 <style>
 .single-page {
-  max-width: 960px;
+  max-width: 1280px;
+  width: 100%;
   margin: 0 auto;
+  padding: 0 1rem;
 }
 .single-card {
   background: transparent;
@@ -49,6 +51,28 @@ redirect_from:
     <h2>About Me</h2>
     <p>I am a Ph.D. student student in Data Science at The University of Queensland (UQ), supervised by <a href="https://sites.google.com/view/hongzhi-yin/home">Prof. Hongzhi Yin</a>, focusing on large language models for tabular data. Prior to my Ph.D. studies, I earned my Master of Computer Science (Management) from UQ and my Bachelor of Information Engineering from Jilin University. I also bring a year of industry experience as a software engineer, which has strengthened my engineering capabilities for research.</p>
   </section>
+  <section class="single-card">
+    <h2>News</h2>
+    <ul>
+      <li>26 Jan 2026: The paper "TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding" has been accepted to ICLR 2026.</li>
+    </ul>
+  </section>
+  <section class="single-card">
+    <h2>Research Interests</h2>
+    <ul>
+      <li>Table Understanding & Reasoning</li>
+      <li>Multi-modal Learning</li>
+      <li>Relational Deep Learning</li>
+      <li>Large Language Models for Structured Data</li>
+    </ul>
+  </section>
+
+  <section class="single-card">
+    <h2>Research Works</h2>
+    <ul>
+      <li><strong>Xiaobo Xing</strong>, Wei Yuan, Tong Chen, Quoc Viet Hung Nguyen, Xiangliang Zhang, Hongzhi Yin. TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding. arXiv 2025. <a href="https://arxiv.org/abs/2509.14671">arXiv:2509.14671</a>.</li>
+    </ul>
+  </section>
 
   <section class="single-card">
   
@@ -72,23 +96,6 @@ redirect_from:
   </section>
 
   <section class="single-card">
-    <h2>Research Interests</h2>
-    <ul>
-      <li>Table Understanding & Reasoning</li>
-      <li>Multi-modal Learning</li>
-      <li>Relational Deep Learning</li>
-      <li>Large Language Models for Structured Data</li>
-    </ul>
-  </section>
-
-  <section class="single-card">
-    <h2>Research Works</h2>
-    <ul>
-      <li><strong>Xiaobo Xing</strong>, Wei Yuan, Tong Chen, Quoc Viet Hung Nguyen, Xiangliang Zhang, Hongzhi Yin. TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding. arXiv 2025. <a href="https://arxiv.org/abs/2509.14671">arXiv:2509.14671</a>.</li>
-    </ul>
-  </section>
-
-  <section class="single-card">
     <h2>Teaching Experience</h2>
     <ul>
       <li><strong>Data Mining (INFS4203/INFS7203)</strong> — Tutor; oral exam assessment and student support (UQ, Jul–Dec 2025).</li>
@@ -105,3 +112,4 @@ redirect_from:
     </ul>
   </section>
 </div>
+
