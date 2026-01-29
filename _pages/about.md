@@ -14,6 +14,39 @@ redirect_from:
   margin: 0 auto;
   padding: 0 1rem;
 }
+.single-page h1 > a.anchor,
+.single-page h2 > a.anchor,
+.single-page h3 > a.anchor,
+.single-page h4 > a.anchor,
+.single-page h5 > a.anchor,
+.single-page h6 > a.anchor,
+.single-page h1 > a.anchorjs-link,
+.single-page h2 > a.anchorjs-link,
+.single-page h3 > a.anchorjs-link,
+.single-page h4 > a.anchorjs-link,
+.single-page h5 > a.anchorjs-link,
+.single-page h6 > a.anchorjs-link,
+.single-page h1 > a.header-link,
+.single-page h2 > a.header-link,
+.single-page h3 > a.header-link,
+.single-page h4 > a.header-link,
+.single-page h5 > a.header-link,
+.single-page h6 > a.header-link,
+.single-page h1 > a.octicon-link,
+.single-page h2 > a.octicon-link,
+.single-page h3 > a.octicon-link,
+.single-page h4 > a.octicon-link,
+.single-page h5 > a.octicon-link,
+.single-page h6 > a.octicon-link,
+.single-page h1 > a[href^="#"],
+.single-page h2 > a[href^="#"],
+.single-page h3 > a[href^="#"],
+.single-page h4 > a[href^="#"],
+.single-page h5 > a[href^="#"],
+.single-page h6 > a[href^="#"] {
+  /* Disable auto-added heading permalinks (the left-side link icon on hover). */
+  display: none !important;
+}
 .single-card {
   background: transparent;
   border: 0;
@@ -49,7 +82,7 @@ redirect_from:
 <div class="single-page">
   <section class="single-card">
     <h2>About Me</h2>
-    <p>I am a Ph.D. student student in Data Science at The University of Queensland (UQ), supervised by <a href="https://sites.google.com/view/hongzhi-yin/home">Prof. Hongzhi Yin</a>, focusing on large language models for tabular data. Prior to my Ph.D. studies, I earned my Master of Computer Science (Management) from UQ and my Bachelor of Information Engineering from Jilin University. I also bring a year of industry experience as a software engineer, which has strengthened my engineering capabilities for research.</p>
+    <p>I am a Ph.D. student in Data Science at The University of Queensland (UQ), supervised by <a href="https://sites.google.com/view/hongzhi-yin/home">Prof. Hongzhi Yin</a>, focusing on large language models for tabular data. Prior to my Ph.D. studies, I earned my Master of Computer Science (Management) from UQ and my Bachelor of Information Engineering from Jilin University. I also bring a year of industry experience as a software engineer, which has strengthened my engineering capabilities for research.</p>
   </section>
   <section class="single-card">
     <h2>News</h2>
