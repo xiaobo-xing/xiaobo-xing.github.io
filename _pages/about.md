@@ -98,13 +98,13 @@ redirect_from:
 <div class="single-page">
   <section class="single-card">
     <h2>About Me</h2>
-    <p>I began my Ph.D. in Data Science at The University of Queensland (UQ) in January 2026. I am advised by <a href="https://sites.google.com/view/hongzhi-yin/home">Prof. Hongzhi Yin</a> and co-advised by <a href="https://about.uq.edu.au/experts/27868">Associate Prof. Rockey Chen</a>, with research interests in tabular deep learning. Prior to my Ph.D. studies, I earned my Master of Computer Science (Management) from UQ and my Bachelor of Information Engineering from Jilin University. I also bring a year of industry experience as a software engineer, which has strengthened my engineering capabilities for research.</p>
+    <p>I began my Ph.D. in Data Science at The University of Queensland (UQ) in January 2026. I am advised by <a href="https://sites.google.com/view/hongzhi-yin/home">Prof. Hongzhi Yin</a> and co-advised by <a href="https://about.uq.edu.au/experts/27868">Associate Prof. Rocky Chen</a>, with research interests in tabular deep learning. Prior to my Ph.D. studies, I earned my Master of Computer Science (Management) from UQ and my Bachelor of Information Engineering from Jilin University. I also bring a year of industry experience as a software engineer, which has strengthened my engineering capabilities for research.</p>
   </section>
 
   <section class="single-card">
     <h2>News</h2>
     <ul>
-      <li>26 Jan 2026: The paper <a href="https://openreview.net/forum?id=4aZTiLH3fm">"TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding"</a> has been accepted to ICLR 2026, with Xiaobo Xing and Wei Yuan as co-first authors.</li>
+      <li>26 Jan 2026: The paper <a href="https://openreview.net/forum?id=4aZTiLH3fm">"TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding"</a> has been accepted to ICLR 2026, with Xiaobo Xing as co-first author.</li>
     </ul>
   </section>
 
@@ -121,7 +121,7 @@ redirect_from:
   <section class="single-card">
     <h2>Research Works</h2>
     <ul>
-      <li><strong>*Xiaobo Xing</strong>, <strong>*Wei Yuan</strong>, Tong Chen, Quoc Viet Hung Nguyen, Xiangliang Zhang, Hongzhi Yin. TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding. ICLR 2026. <a href="https://openreview.net/forum?id=4aZTiLH3fm">OpenReview</a>. (* equal contribution)</li>
+      <li><strong>Xiaobo Xing*</strong>, Wei Yuan*, Tong Chen, Quoc Viet Hung Nguyen, Xiangliang Zhang, Hongzhi Yin. TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding. ICLR 2026. <a href="https://openreview.net/forum?id=4aZTiLH3fm">OpenReview</a>. (* equal contribution)</li>
     </ul>
   </section>
 
@@ -131,7 +131,7 @@ redirect_from:
       <li>
         <strong>Ph.D. in Data Science</strong> <br>
         The University of Queensland, Australia <br>
-        <span style="color: #666; font-size: 0.9em;">Jan. 2026 – Present | Advisor: <a href="https://sites.google.com/view/hongzhi-yin/home">Prof. Hongzhi Yin</a> | Co-advisor: <a href="https://about.uq.edu.au/experts/27868">Associate Prof. Rockey Chen</a></span>
+        <span style="color: #666; font-size: 0.9em;">Jan. 2026 – Present | Advisor: <a href="https://sites.google.com/view/hongzhi-yin/home">Prof. Hongzhi Yin</a> | Co-advisor: <a href="https://about.uq.edu.au/experts/27868">Associate Prof. Rocky Chen</a></span>
       </li>
       <li style="margin-top: 10px;">
         <strong>Master of Computer Science (Management)</strong> <br>
@@ -157,9 +157,9 @@ redirect_from:
   <section class="single-card">
     <h2>Awards</h2>
     <ul>
-      <li>Dean’s Commendation for Academic Excellence: 2025 Semester 1; 2024 Semester 2; 2024 Semester 1 (Faculty of EAIT, UQ).</li>
-      <li>Best New Employee Award 2022, CRRC Changchun Railway Vehicles Co., Ltd.</li>
-      <li>The Star of Events 2022, CRRC Changchun Railway Vehicles Co., Ltd.</li>
+      <li>Dean’s Commendation for Academic Excellence, 2025 Semester 1 (Faculty of EAIT, UQ).</li>
+      <li>Dean’s Commendation for Academic Excellence, 2024 Semester 2 (Faculty of EAIT, UQ).</li>
+      <li>Dean’s Commendation for Academic Excellence, 2024 Semester 1 (Faculty of EAIT, UQ).</li>
     </ul>
   </section>
 </div>
