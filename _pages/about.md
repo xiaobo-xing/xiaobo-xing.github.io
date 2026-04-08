@@ -104,7 +104,7 @@ redirect_from:
   <section class="single-card">
     <h2>News</h2>
     <ul>
-      <li>26 Jan 2026: The paper <a href="https://openreview.net/forum?id=4aZTiLH3fm">"TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding"</a> has been accepted to ICLR 2026, with Xiaobo Xing as first of co-author.</li>
+      <li>26 Jan 2026: The paper <a href="https://openreview.net/forum?id=4aZTiLH3fm">"TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding"</a> has been accepted to ICLR 2026, first of co-author.</li>
     </ul>
   </section>
 
