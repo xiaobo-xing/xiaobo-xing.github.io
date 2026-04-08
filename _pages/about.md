@@ -77,19 +77,37 @@ redirect_from:
   font-size: 0.9rem;
   margin-right: 0.4rem;
 }
+
+@media screen and (min-width: 1024px) {
+  .page {
+    position: relative;
+    z-index: 2;
+  }
+
+  .page__content {
+    position: relative;
+    z-index: 2;
+  }
+
+  .sidebar {
+    z-index: 1;
+  }
+}
 </style>
 
 <div class="single-page">
   <section class="single-card">
     <h2>About Me</h2>
-    <p>I am a Ph.D. student in Data Science at The University of Queensland (UQ), supervised by <a href="https://sites.google.com/view/hongzhi-yin/home">Prof. Hongzhi Yin</a>, focusing on large language models for tabular data. Prior to my Ph.D. studies, I earned my Master of Computer Science (Management) from UQ and my Bachelor of Information Engineering from Jilin University. I also bring a year of industry experience as a software engineer, which has strengthened my engineering capabilities for research.</p>
+    <p>I began my Ph.D. in Data Science at The University of Queensland (UQ) in January 2026. I am advised by <a href="https://sites.google.com/view/hongzhi-yin/home">Prof. Hongzhi Yin</a> and co-advised by <a href="https://about.uq.edu.au/experts/27868">Associate Prof. Rockey Chen</a>, with research interests in tabular deep learning. Prior to my Ph.D. studies, I earned my Master of Computer Science (Management) from UQ and my Bachelor of Information Engineering from Jilin University. I also bring a year of industry experience as a software engineer, which has strengthened my engineering capabilities for research.</p>
   </section>
+
   <section class="single-card">
     <h2>News</h2>
     <ul>
-      <li>26 Jan 2026: The paper "TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding" has been accepted to ICLR 2026.</li>
+      <li>26 Jan 2026: The paper <a href="https://openreview.net/forum?id=4aZTiLH3fm">"TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding"</a> has been accepted to ICLR 2026, with Xiaobo Xing and Wei Yuan as co-first authors.</li>
     </ul>
   </section>
+
   <section class="single-card">
     <h2>Research Interests</h2>
     <ul>
@@ -103,7 +121,7 @@ redirect_from:
   <section class="single-card">
     <h2>Research Works</h2>
     <ul>
-      <li><strong>Xiaobo Xing</strong>, Wei Yuan, Tong Chen, Quoc Viet Hung Nguyen, Xiangliang Zhang, Hongzhi Yin. TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding. arXiv 2025. <a href="https://arxiv.org/abs/2509.14671">arXiv:2509.14671</a>.</li>
+      <li><strong>*Xiaobo Xing</strong>, <strong>*Wei Yuan</strong>, Tong Chen, Quoc Viet Hung Nguyen, Xiangliang Zhang, Hongzhi Yin. TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding. ICLR 2026. <a href="https://openreview.net/forum?id=4aZTiLH3fm">OpenReview</a>. (* equal contribution)</li>
     </ul>
   </section>
 
@@ -113,7 +131,7 @@ redirect_from:
       <li>
         <strong>Ph.D. in Data Science</strong> <br>
         The University of Queensland, Australia <br>
-        <span style="color: #666; font-size: 0.9em;">Jan. 2026 – Present | Advisor: Prof. Hongzhi Yin</span>
+        <span style="color: #666; font-size: 0.9em;">Jan. 2026 – Present | Advisor: <a href="https://sites.google.com/view/hongzhi-yin/home">Prof. Hongzhi Yin</a> | Co-advisor: <a href="https://about.uq.edu.au/experts/27868">Associate Prof. Rockey Chen</a></span>
       </li>
       <li style="margin-top: 10px;">
         <strong>Master of Computer Science (Management)</strong> <br>
@@ -131,8 +149,8 @@ redirect_from:
   <section class="single-card">
     <h2>Teaching Experience</h2>
     <ul>
-      <li><strong>Data Mining (INFS4203/INFS7203)</strong> — Tutor; oral exam assessment and student support (UQ, Jul–Dec 2025).</li>
-      <li><strong>Social Media Analytics (INFS7450)</strong> — Tutor; weekly tutorials and assessment (UQ, Feb–Jun 2025).</li>
+      <li><strong>Data Mining (INFS4203/INFS7203)</strong> — Tutor; oral exam assessment and student support (UQ, 2025 Semester 2).</li>
+      <li><strong>Social Media Analytics (INFS7450)</strong> — Tutor; weekly tutorials and assessment (UQ, 2025 Semester 1; 2026 Semester 1).</li>
     </ul>
   </section>
 
@@ -145,4 +163,3 @@ redirect_from:
     </ul>
   </section>
 </div>
-
