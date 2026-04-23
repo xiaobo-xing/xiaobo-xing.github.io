@@ -98,7 +98,7 @@ redirect_from:
 <div class="single-page">
   <section class="single-card">
     <h2>About Me</h2>
-    <p>I began my Ph.D. in Data Science at The University of Queensland (UQ) in January 2026. I am advised by <a href="https://sites.google.com/view/hongzhi-yin/home">Prof. Hongzhi Yin</a> and co-advised by <a href="https://about.uq.edu.au/experts/27868">Associate Prof. Rocky Chen</a>, with research interests in tabular deep learning. Prior to my Ph.D. studies, I earned my Master of Computer Science (Management) from UQ and my Bachelor of Information Engineering from Jilin University. I also bring a year of industry experience as a software engineer, which has strengthened my engineering capabilities for research.</p>
+    <p>I began my Ph.D. in Data Science at The University of Queensland (UQ) in January 2026. I am advised by <a href="https://sites.google.com/view/hongzhi-yin/home">Prof. Hongzhi Yin</a> and co-advised by <a href="https://about.uq.edu.au/experts/27868">Associate Prof. Rocky Chen</a>, with research interests in Tabular Learning. Prior to my Ph.D. studies, I earned my Master of Computer Science (Management) from UQ and my Bachelor of Information Engineering from Jilin University. I also bring a year of industry experience as a software engineer, which has strengthened my engineering capabilities for research.</p>
   </section>
 
   <section class="single-card">
@@ -113,6 +113,8 @@ redirect_from:
     <h2>Research Interests</h2>
     <ul>
       <li>Table Understanding & Reasoning</li>
+      <li>Tabular Foundation Models</li>
+      <li>Relational Foundation Models</li>
       <li>Multi-modal Learning</li>
       <li>Relational Deep Learning</li>
       <li>Large Language Models for Structured Data</li>
@@ -157,9 +159,9 @@ redirect_from:
   <section class="single-card">
     <h2>Teaching Experience</h2>
     <ul>
-      <li><strong>2026 Semester 1</strong> — Tutor, Social Media Analytics (INFS7450); weekly tutorials and assessment (UQ).</li>
-      <li><strong>2025 Semester 2</strong> — Tutor, Data Mining (INFS4203/INFS7203); oral exam assessment and student support (UQ).</li>
-      <li><strong>2025 Semester 1</strong> — Tutor, Social Media Analytics (INFS7450); weekly tutorials and assessment (UQ).</li>
+      <li><strong>2026 Semester 1</strong> — Tutor, Social Media Analytics (INFS7450, UQ); weekly tutorials and assessment marking.</li>
+      <li><strong>2025 Semester 2</strong> — Tutor, Data Mining (INFS4203/INFS7203, UQ); oral exam assessment and student support.</li>
+      <li><strong>2025 Semester 1</strong> — Tutor, Social Media Analytics (INFS7450, UQ); weekly tutorials and assessment marking.</li>
     </ul>
   </section>
 
