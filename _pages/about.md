@@ -157,8 +157,9 @@ redirect_from:
   <section class="single-card">
     <h2>Teaching Experience</h2>
     <ul>
-      <li><strong>Data Mining (INFS4203/INFS7203)</strong> — Tutor; oral exam assessment and student support (UQ, 2025 Semester 2).</li>
-      <li><strong>Social Media Analytics (INFS7450)</strong> — Tutor; weekly tutorials and assessment (UQ, 2025 Semester 1; 2026 Semester 1).</li>
+      <li><strong>2026 Semester 1</strong> — Tutor, Social Media Analytics (INFS7450); weekly tutorials and assessment (UQ).</li>
+      <li><strong>2025 Semester 2</strong> — Tutor, Data Mining (INFS4203/INFS7203); oral exam assessment and student support (UQ).</li>
+      <li><strong>2025 Semester 1</strong> — Tutor, Social Media Analytics (INFS7450); weekly tutorials and assessment (UQ).</li>
     </ul>
   </section>
 
