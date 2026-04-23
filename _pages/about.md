@@ -104,6 +104,7 @@ redirect_from:
   <section class="single-card">
     <h2>News</h2>
     <ul>
+      <li>23 Apr 2026: I was invited to serve as a Program Committee Member (reviewer) for NeurIPS 2026.</li>
       <li>26 Jan 2026: The paper <a href="https://openreview.net/forum?id=4aZTiLH3fm">"TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding"</a> has been accepted to ICLR 2026, first of co-author.</li>
     </ul>
   </section>
@@ -122,6 +123,13 @@ redirect_from:
     <h2>Research Works</h2>
     <ul>
       <li><strong>Xiaobo Xing*</strong>, Wei Yuan*, Tong Chen, Quoc Viet Hung Nguyen, Xiangliang Zhang, Hongzhi Yin. TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding. ICLR 2026. <a href="https://openreview.net/forum?id=4aZTiLH3fm">OpenReview</a>. (* equal contribution)</li>
+    </ul>
+  </section>
+
+  <section class="single-card">
+    <h2>Academic Service</h2>
+    <ul>
+      <li>Program Committee Member (reviewer), NeurIPS 2026.</li>
     </ul>
   </section>
 
