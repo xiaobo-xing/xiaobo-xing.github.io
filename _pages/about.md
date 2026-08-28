@@ -104,7 +104,6 @@ redirect_from:
   <section class="single-card">
     <h2>News</h2>
     <ul>
-      <li>23 Apr 2026: I was invited to serve as a reviewer for NeurIPS 2026 (declined).</li>
       <li>26 Jan 2026: The paper <a href="https://openreview.net/forum?id=4aZTiLH3fm">"TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding"</a> has been accepted to ICLR 2026, first of co-author.</li>
     </ul>
   </section>
@@ -146,6 +145,13 @@ redirect_from:
         Jilin University, China <br>
         <span style="color: #666; font-size: 0.9em;">Sep. 2018 – Jun. 2022</span>
       </li>
+    </ul>
+  </section>
+
+  <section class="single-card">
+    <h2>Academic Service</h2>
+    <ul>
+      <li>PC Members: ADMD2026, ICLR2027.</li>
     </ul>
   </section>
 
