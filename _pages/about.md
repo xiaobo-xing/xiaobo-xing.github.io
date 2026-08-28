@@ -151,7 +151,7 @@ redirect_from:
   <section class="single-card">
     <h2>Academic Service</h2>
     <ul>
-      <li>PC Members: ADMD2026, ICLR2027.</li>
+      <li>Invited Reviewer: ADMD2026, ICLR2027.</li>
     </ul>
   </section>
 
